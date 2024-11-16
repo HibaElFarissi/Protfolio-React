@@ -464,6 +464,29 @@ export const projects = [
     github: "https://curecorner.elfarissihiba.serv00.net",
     webapp: "https://curecorner.elfarissihiba.serv00.net",
   },
+
+  {
+    id: 10,
+    title: "My Protfolio 2",
+    date: "October 2024",
+    description:
+      "Portfolio is a web application for Profile offer skill, projects, experiences, education and communication ...",
+    image:
+      "https://i.postimg.cc/jSsbjHt4/protfolio-react-app.jpg",
+    tags: [
+      "React JS",
+      "Html",
+      "CSS",
+      "Bootstrap",
+      "Javascript",
+      "Vercel",
+    ],
+
+  category: "Websites",
+  github: "https://github.com/HibaElFarissi/Protfolio-React",
+  webapp: "https://protfolio-nu-liart.vercel.app",
+  
+  },
 ];
 
 
